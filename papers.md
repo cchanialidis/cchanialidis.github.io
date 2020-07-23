@@ -1,8 +1,6 @@
 ---
 layout: single
 title: Papers, talks and software
-tags: [about]
-comments: false
 ---
 
 
