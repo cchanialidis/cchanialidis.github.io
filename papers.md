@@ -16,8 +16,9 @@ Proceedings of COMPSTAT 2014 - 21st International Conference on Computational St
 
 + C. Chanialidis, L. Evers, T. Neocleous, A. Nobile (2014), [Retrospective sampling in MCMC with an application to COM-Poisson regression](cmpstat.pdf). Stat 3(1): 273-290. doi: 10.1002/sta4.61 
 
-__Software__
+__R packages__
 
++  [`combayes`](https://github.com/cchanialidis/combayes) (2018).  Bayesian inference for COM-Poisson regression models using exact samplers.
 
 __Theses and dissertations__
 
