@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am an ex-academic turned data scientist working in financial services with  a background in statistical research. I have a wide-ranging technical experience in statistical machine learning, with particular expertise in predictive modelling, Bayesian statistical modelling, quantile regression and classification techniques.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+Prior to working in data science, I spent three years as a lecturer of Statistics at the [University of Glasgow](https://www.gla.ac.uk/) in the [School of Mathematics and Statistics](https://www.gla.ac.uk/schools/mathematicsstatistics/). During that time I was the programme director of the [online MSc in Data Analytics](https://www.gla.ac.uk/postgraduate/taught/dataanalyticsonline/). 
 
-### my history
+Before that, I was a Post Doctoral Research Associate at the University of Glasgow in the School of Mathematics and Statistics and the [Urban Big Data Centre](https://www.ubdc.ac.uk/). Even before that, I was a Post Doctoral Research Fellow at the [University College Dublin](https://www.ucd.ie/) in the [School of Mathematics and Statistics]( https://www.ucd.ie/mathstat/) and a PhD student of Statistics at the University of Glasgow in the School of Mathematics and Statistics. I obtained my MSc degree in Statistics and Operational Research at the [University of Athens](https://www.uoa.gr/). I obtained my BSc degree from the [Department of Mathematics](https://www.math.uoa.gr/) at the same University.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+ A publications list can be found at [Google Scholar](https://scholar.google.com/citations?user=dXVYMU4AAAAJ&hl=en&oi=ao#)
