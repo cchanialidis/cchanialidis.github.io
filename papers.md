@@ -36,7 +36,7 @@ __Selected Presentations__
 + 10th International Conference on Teaching Statistics, Kyoto, Japan.
 [The use of technology and media in teaching statistics](https://figshare.com/articles/The_use_of_technology_and_social_media_in_teaching_Statistics/6844727)
 
-+ [Flexible regression models for count data](https://cchanial.shinyapps.io/intro_to_compoisson/) Slides introducing the COM-Poisson distribution (with a Shiny app) and the exchange algorithm.
++ Slides introducing the COM-Poisson distribution (with a Shiny app) and the exchange algorithm.  [Flexible regression models for count data](https://cchanial.shinyapps.io/intro_to_compoisson/) 
 
 
 
