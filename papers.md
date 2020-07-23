@@ -31,7 +31,6 @@ __Selected Presentations__
 
 + Royal Statistical Society-Glasgow Local Group, Glasgow, UK.
 [Data visualisation and statistical modelling in Shiny](RSS_talk)
-(slides for RSS talk, April 2017)
 
 + 10th International Conference on Teaching Statistics, Kyoto, Japan.
 [The use of technology and media in teaching statistics](https://figshare.com/articles/The_use_of_technology_and_social_media_in_teaching_Statistics/6844727)
