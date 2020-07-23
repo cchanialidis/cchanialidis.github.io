@@ -6,39 +6,38 @@ title: Papers, talks and software
 
 __Published Papers__
 
-+ Lee, D., Rushworth, A., Napier, G. (2018). [Spatio-temporal areal unit modelling in R with conditional autoregressive priors using the CARBayesST package.](carbayesst.pdf) _Journal of Statistical Software._ 84 (9).
++ C. Chanialidis, L. Evers, T. Neocleous, A. Nobile (2017), [Efficient Bayesian inference for COM-Poisson regression models](https://link.springer.com/article/10.1007/s11222-017-9750-x). Statistics and Computing 28(3): 595-608. 
 
-+ Rushworth, AM., Lee, D., Sarran, C. (2017). [An adaptive spatiotemporal smoothing model for estimating trends and step changes in disease risk.](adaptive_spatiotemporal_smoothing.pdf) _Journal of the Royal Statistical Society: Series C (Applied Statistics)._  66 (1), 141-157.
++ M. O'Reilly, D. Whelan, C. Chanialidis, N. Friel, E. Delahunt (2015). [Evaluating Squat Performance with a Single Inertial Measurement Unit](https://ieeexplore.ieee.org/document/7299380).
+Proceedings of BSN 2015 - 2015 IEEE International Conference on Body Sensor Networks.
 
-+ Lee, D., Mukhopadhyay, S., Rushworth, A., Sahu, SK. (2016). [A rigorous statistical framework for spatio-temporal pollution prediction and estimation of its long-term impact on health.](rigorous_statistical.pdf)  _Biostatistics_ 18 (2), 370-385.
++ C. Chanialidis, L. Evers, T. Neocleous (2014), [Bayesian density regression for count data](https://arxiv.org/abs/1406.1882).
+Proceedings of COMPSTAT 2014 - 21st International Conference on Computational Statistics: 649-656 arXiv
 
-+ Rushworth, AM., Peterson, EE., Ver Hoef, JM., Bowman, AW. (2015). [Validation and comparison of geostatistical and spline models for spatial stream networks.](comparison_stream_network_models.pdf) _Environmetrics._ 26 (5), 327-338.
++ C. Chanialidis, L. Evers, T. Neocleous, A. Nobile (2014), [Retrospective sampling in MCMC with an application to COM-Poisson regression](cmpstat.pdf). Stat 3(1): 273-290. doi: 10.1002/sta4.61 
 
-+ Rushworth, A., Lee, D., Mitchell, R. (2014). [A spatio-temporal model for estimating the long-term effects of air pollution on respiratory hospital admissions in Greater London.](spatiotemporal_health_london.pdf) _Spatial and spatio-temporal epidemiology._ 10, 29-38.
-
-+ Lee, D., Rushworth, A., Sahu, SK. (2014). [A Bayesian localized conditional autoregressive model for estimating the health effects of air pollution.](bayesian_localised.pdf) _Biometrics._ 70 (2), 419-429.
-
-+ O'Donnell, D., Rushworth, A., Bowman, AW., Scott, EM., Hallard, M. (2014). [Flexible regression models over river networks.](flexible_regression_river_networks.pdf) _Journal of the Royal Statistical Society: Series C (Applied Statistics)._ 63 (1), 47-63.
-
-+ Rushworth, AM., Bowman, AW., Brewer, MJ., SJ Langan. (2013). [Distributed lag models for hydrological data.](distributed_lag_models.pdf) _Biometrics_ 69 (2), 537-544.
+__Software__
 
 
-__Selected presentations__
+__Theses and dissertations__
 
-+ Strathclyde University, Royal Statistical Society, Glasgow local group meeting, December 2017. [So we're all data scientists now?](rss_2017.pdf)
++ C. Chanialidis (2015), PhD thesis, [Bayesian mixture models for count data](http://theses.gla.ac.uk/6371/).
 
-+ EdinbR, Edinburgh R Users group, June 2017. [Doing machine learning in R.](edinbr_2017.pdf)
++ C. Chanialidis (2010), MSc dissertation, [Inference and variable selection for quantile regression models](msc_thesis.pdf).
 
-+ Joint Statistical Meeting, Chicago, August 2016. [Adaptive distributed lag models.](jsm_2016.pdf)
 
-+ Basque Centre for Applied Mathematics seminar, Bilbao, Spain, November 2015. [Challenges in the statistical modelling of data on large river networks.](bcam_2015.pdf)
+__Selected Presentations__
 
-+ Joint Statistical Meeting, Seattle, August 2015. [Challenges in modelling air pollution and understanding its impact on human health.](jsm_2015.pdf)
++ Royal Statistical Society-Glasgow Local Group, Glasgow, UK
+[Data visualisation and statistical modelling in Shiny](RSS_talk)
+(slides for RSS talk, April 2017)
 
-+ Conference of the International Environmetrics Society, Anchorage, Alaska, June 2013. [Assessing and comparing the performance of models for stream network data.](ties_2013.pdf)
++ 10th International Conference on Teaching Statistics, Kyoto, Japan
+[The use of technology and media in teaching statistics](https://figshare.com/articles/The_use_of_technology_and_social_media_in_teaching_Statistics/6844727)
 
-+ Lancaster University, Royal Statistical Society, Lancashire local group meeting, April 2012. (with Prof. Adrian Bowman). [Going with the flow: flexible regression for river networks.](rss_2012.pdf)
++ [Flexible regression models for count data](https://cchanial.shinyapps.io/intro_to_compoisson/)
 
-+ 26th International Workshop on Statistical Modelling, Valencia, July 2011. [Distributed lag models for hydrological data.](iwsm_2011.pdf)
+
+
 
 
