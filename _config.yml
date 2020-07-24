@@ -3,6 +3,9 @@
 # Name of website
 title: My website
 
+# Next parameter used to move the blog from the home page
+paginate_path: "/blog/page:num/"
+
 # Short description of your site
 #description: A virtual proof that I'm awesome
 
