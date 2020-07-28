@@ -22,11 +22,11 @@ __R packages__
 
 __Shiny applications__
 
-+ [Gentrification and crime in the city of Chicago](https://cchanial.shinyapps.io/chicago_app/)
++ [Gentrification and crime in the city of Chicago.](https://cchanial.shinyapps.io/chicago_app/)
 
-+ [Crimes and offences in the datazones of Glasgow](https://cchanial.shinyapps.io/spatial_app/)
++ [Crimes and offences in the datazones of Glasgow.](https://cchanial.shinyapps.io/spatial_app/)
 
-+ [Flexible regression models for count data](https://cchanial.shinyapps.io/intro_to_compoisson/) 
++ [Flexible regression models for count data.](https://cchanial.shinyapps.io/intro_to_compoisson/) 
 
 
 
