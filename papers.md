@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers, talks and software
+title: Papers, software, shiny apps and presentations
 ---
 
 
@@ -20,6 +20,16 @@ __R packages__
 
 +  [`combayes`](https://github.com/cchanialidis/combayes) (2018).  Bayesian inference for COM-Poisson regression models using exact samplers.
 
+__Shiny applications__
+
++ [Gentrification and crime in the city of Chicago](https://cchanial.shinyapps.io/chicago_app/)
+
++ [Crimes and offences in the datazones of Glasgow](https://cchanial.shinyapps.io/spatial_app/)
+
++ [Flexible regression models for count data](https://cchanial.shinyapps.io/intro_to_compoisson/) 
+
+
+
 __Theses and dissertations__
 
 + C. Chanialidis (2015), PhD thesis, [Bayesian mixture models for count data](http://theses.gla.ac.uk/6371/).
@@ -34,8 +44,6 @@ __Selected Presentations__
 
 + 10th International Conference on Teaching Statistics, Kyoto, Japan.
 [The use of technology and media in teaching statistics](https://figshare.com/articles/The_use_of_technology_and_social_media_in_teaching_Statistics/6844727)
-
-+ Slides introducing the COM-Poisson distribution (with a Shiny app) and the exchange algorithm.  [Flexible regression models for count data](https://cchanial.shinyapps.io/intro_to_compoisson/) 
 
 
 
