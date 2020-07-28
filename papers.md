@@ -32,18 +32,18 @@ __Shiny applications__
 
 __Theses and dissertations__
 
-+ C. Chanialidis (2015), PhD thesis, [Bayesian mixture models for count data](http://theses.gla.ac.uk/6371/).
++ C. Chanialidis (2015), PhD thesis, [Bayesian mixture models for count data.](http://theses.gla.ac.uk/6371/)
 
-+ C. Chanialidis (2010), MSc dissertation, [Inference and variable selection for quantile regression models](msc_thesis.pdf).
++ C. Chanialidis (2010), MSc dissertation, [Inference and variable selection for quantile regression models.](msc_thesis.pdf)
 
 
 __Selected Presentations__
 
 + Royal Statistical Society-Glasgow Local Group, Glasgow, UK.
-[Data visualisation and statistical modelling in Shiny](RSS_talk)
+[Data visualisation and statistical modelling in Shiny.](RSS_talk)
 
 + 10th International Conference on Teaching Statistics, Kyoto, Japan.
-[The use of technology and media in teaching statistics](https://figshare.com/articles/The_use_of_technology_and_social_media_in_teaching_Statistics/6844727)
+[The use of technology and media in teaching statistics.](https://figshare.com/articles/The_use_of_technology_and_social_media_in_teaching_Statistics/6844727)
 
 
 
